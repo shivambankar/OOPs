@@ -1,6 +1,6 @@
 package com.company.INTRODUCTION;
 
-//Wrapper class --> Instead of primitive data type, we can hava object.
+//Wrapper class --> Instead of primitive data type, we can have an object.
 
 public class Wrapper4 {
     public static void main(String[] args) {
@@ -10,4 +10,4 @@ public class Wrapper4 {
         System.out.println(num);
     }
 }
-//Refer javatpoint.
+
