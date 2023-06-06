@@ -1,7 +1,7 @@
 package com.company.INTRODUCTION;
 import java.util.Arrays;
 
-public class Second {
+public class ClassAndObject {
     public static void main(String[] args) {
         Employee[] employees = new Employee[5];
         System.out.println(Arrays.toString(employees));
